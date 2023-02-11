@@ -1,8 +1,10 @@
 # FFNN
 Feed Forward Neural Network from Scratch
 
-Implementation of a Deep Learning Regression Algorithm
-Abstract: Following the exponential rise of computing power, Machine Learning algorithms have become an increasingly effective tool in various areas of research. This paper outlines the mathematical foundation for a Deep Learning ML algorithm, and subsequently describes the process of building a regressive Feed Forward Deep Learning ML Model from first principles. A toy model for finding the roots (both real and imaginary) of a quadratic equation is then described, and this model’s performance is evaluated.
+# Implementation of a Deep Learning Regression Algorithm
+
+## Abstract: 
+Following the exponential rise of computing power, Machine Learning algorithms have become an increasingly effective tool in various areas of research. This paper outlines the mathematical foundation for a Deep Learning ML algorithm, and subsequently describes the process of building a regressive Feed Forward Deep Learning ML Model from first principles. A toy model for finding the roots (both real and imaginary) of a quadratic equation is then described, and this model’s performance is evaluated.
 
 Introduction:
 As the event rates in Particle detectors increase exponentially, particle physicists are having to parse through immense amounts of data. This data is becoming increasingly difficult to go through with traditional data analytic techniques. For this reason, machine learning algorithms stand to be of great help in this domain, as they can be trained to model arbitrarily complex functions and parse through complex data efficiently. These algorithms have already been introduced in various areas of particle physics research with great success [1] , and as these algorithms become more sophisticated their impact will rise.
