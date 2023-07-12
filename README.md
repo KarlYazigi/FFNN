@@ -1,7 +1,7 @@
 # Feed Forward Neural Network from Scratch
 
 
-This project implements a neural network completely from scratch using only the NumPy library to optimize calculations. The purpose of this neural network is to find solutions to polynomial functions. The model has been trained and tested on a dataset consisting of 3000 examples for 10,000 epochs.
+This project implements a neural network completely from scratch using only the NumPy library to optimize calculations. The functionality of this neural network is then demonstrated in its application on finding solutions to polynomial functions. The model was been trained and tested on a dataset consisting of 3000 examples for 10,000 epochs.
 
 ## Model Performance
 
