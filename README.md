@@ -7,7 +7,7 @@ Feel free to explore the code and experiment with applying the algorthim to diff
 
 ## Model Performance
 
-The model demonstrates impressive performance with an accuracy of 95% on the training set and 93% on the test set. 
+The model demonstrates comparable performance of a neural network from a prepackaged library. With an accuracy of 95% on the training set and 93% on the test set given 3000 examples. 
 
 ## Training and Test Accuracy
 
